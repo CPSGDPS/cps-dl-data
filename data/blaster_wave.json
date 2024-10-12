@@ -1,0 +1,38 @@
+{
+    "id": 1030,
+    "name": "Blaster Wave",
+    "difficulty": "Extreme Demon",
+    "author": "KacyGD",
+    "creators": [],
+    "verifier": "zKuramishiro",
+    "verification": "https://www.youtube.com/watch?v=vVnjnHRNJnQ",
+    "showcase": "",
+    "password": "",
+    "percentToQualify": 50,
+    "records": [
+        {
+            "user": "Cloud",
+            "link": "https://www.youtube.com/watch?v=UyzxbuSeCoA",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Bogar1kad",
+            "link": "https://www.youtube.com/watch?v=oWrndB5kkY4",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Crockee",
+            "link": "https://www.youtube.com/watch?v=Ss2LUgiVA7g",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Filipogem",
+            "link": "https://youtu.be/KKCBP5m8EAI",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

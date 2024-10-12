@@ -1,0 +1,32 @@
+{
+    "id": 40,
+    "name": "Modern Maze",
+    "difficulty": "Extreme Demon",
+    "author": "Anony",
+    "creators": [],
+    "verifier": "Anony",
+    "verification": "",
+    "showcase": "https://youtu.be/yvmFzp6KsMg",
+    "password": "",
+    "percentToQualify": 50,
+    "records": [        
+	{
+            "user": "Gamecheese",
+            "link": "https://youtu.be/RQufTJO8c3g?si=deVhqPlMOGx8zG3i",
+            "percent": 100,
+            "hz": 60
+        },
+	{
+            "user": "Bogar1kad",
+            "link": "https://www.youtube.com/watch?v=blF3eawKk_A",
+            "percent": 52,
+            "hz": 120
+        },
+	{
+            "user": "Krieger",
+            "link": "https://youtu.be/H5w0cex6EfE?si=nQCAZzU6kZ6K-nkd",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

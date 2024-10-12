@@ -1,0 +1,26 @@
+{
+    "id": 1453,
+    "name": "Unnamed 33",
+    "difficulty": "Extreme Demon",
+    "author": "Gamecheese",
+    "creators": [],
+    "verifier": "Crockee",
+    "verification": "https:\/\/www.youtube.com\/watch?v=Lflch2xjJL0",
+    "showcase": "",
+    "password": "",
+    "percentToQualify": 50,
+    "records": [
+        {
+            "user": "MihaMilos",
+            "link": "https:\/\/www.youtube.com\/watch?v=Z8EAqwjnnjU",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Krieger",
+            "link": "https:\/\/m.youtube.com\/watch?v=tSDwKKmF_qU",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

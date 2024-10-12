@@ -1,0 +1,53 @@
+{
+    "id": 1325,
+    "name": "Gold Challenge",
+    "difficulty": "Extreme Demon",
+    "author": "MihaMilos",
+    "creators": [
+        "Spootymaster",
+        "MihaMilos"
+    ],
+    "verifier": "MihaMilos",
+    "verification": "https:\/\/youtu.be\/hmoI7tqJZc0?si=QZvXfGLujTEVOXpn",
+    "showcase": "",
+    "password": "",
+    "percentToQualify": 50,
+    "records": [
+        {
+            "user": "Cloud",
+            "link": "https:\/\/www.youtube.com\/watch?v=E2MjNJ_mlCw",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Crockee",
+            "link": "https:\/\/www.youtube.com\/watch?v=IQy5PTqX8Cc",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Lychee3167",
+            "link": "https:\/\/www.youtube.com\/watch?v=JxSvoBe1j3M",
+            "percent": 100,
+            "hz": 180
+        },
+        {
+            "user": "Filipogem",
+            "link": "https:\/\/www.youtube.com\/watch?v=CFmCJCRDIFk&ab_channel=AnotherGem",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "ckujicka",
+            "link": "https:\/\/www.youtube.com\/watch?v=YzwB3DL9auk",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "zKuramishiro",
+            "link": "https:\/\/www.youtube.com\/watch?v=93w4m5VQuSg",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "id": 43,
+    "name": "PoPoPo",
+    "difficulty": "Extreme Demon",
+    "author": "Anony",
+    "creators": [],
+    "verifier": "Voidnova",
+    "verification": "",
+    "showcase": "https:\/\/youtu.be\/xPvnC58hErc",
+    "percentToQualify": 50,
+    "records": [
+        {
+            "user": "Gamecheese",
+            "link": "https:\/\/www.youtube.com\/watch?v=nGiMmv5uGzM",
+            "percent": 80,
+            "hz": 60
+        },
+        {
+            "user": "r3SERT1",
+            "link": "https:\/\/www.youtube.com\/watch?v=HL3aNsCFEsw",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "MihaMilos",
+            "link": "https:\/\/youtu.be\/RpOwSHihfjM",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Filipogem",
+            "link": "https:\/\/www.youtube.com\/watch?v=Zm9u4fWWMiE",
+            "percent": 85,
+            "hz": 144
+        },
+        {
+            "user": "zKuramishiro",
+            "link": "https:\/\/www.youtube.com\/watch?v=sbFi7OFhkx8",
+            "percent": 60,
+            "hz": 60
+        },
+        {
+            "user": "AeroPhobia",
+            "link": "https:\/\/youtube.com\/watch?v=TO8C9alSXkY?si=I_9XU40yp_wklwEg",
+            "percent": 51,
+            "hz": 120
+        },
+        {
+            "user": "Crockee",
+            "link": "https:\/\/www.youtube.com\/watch?v=2f20bLbzzds",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

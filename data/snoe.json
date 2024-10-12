@@ -1,0 +1,32 @@
+{
+    "id": 1251,
+    "name": "Snoe",
+    "difficulty": "Extreme Demon",
+    "author": "Cloud",
+    "creators": [],
+    "verifier": "Cloud",
+    "verification": "https:\/\/www.youtube.com\/watch?v=5G3BchgFjTU",
+    "showcase": "",
+    "password": "",
+    "percentToQualify": 50,
+    "records": [
+        {
+            "user": "MihaMilos",
+            "link": "https:\/\/youtu.be\/LFNnZyv1v2I?si=LX3etLefTPCd5NY3&t=8",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Crockee",
+            "link": "https:\/\/www.youtube.com\/watch?v=1o8SSTcuilE",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "r3SERT1",
+            "link": "https:\/\/www.youtube.com\/watch?v=mCsSzEsVeNw",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}

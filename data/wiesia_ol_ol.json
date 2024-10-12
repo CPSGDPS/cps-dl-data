@@ -1,0 +1,38 @@
+{
+    "id": 1029,
+    "name": "Wiesia ol ol",
+    "difficulty": "Extreme Demon",
+    "author": "Dwornik",
+    "creators": [],
+    "verifier": "Dwornik",
+    "verification": "https:\/\/www.youtube.com\/watch?v=u-ifVyUR68M",
+    "showcase": "",
+    "password": "",
+    "percentToQualify": 50,
+    "records": [
+        {
+            "user": "Cloud",
+            "link": "https:\/\/youtu.be\/eGhWfib0R6s",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Gamecheese",
+            "link": "https:\/\/www.youtube.com\/watch?v=8decVNUgEMM",
+            "percent": 80,
+            "hz": 60
+        },
+        {
+            "user": "Crockee",
+            "link": "https:\/\/www.youtube.com\/watch?v=-QIjupCEuiM",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "AeroPhobia",
+            "link": "https:\/\/youtube.com\/watch?v=C9OcahH8PdY?si=rhr9vXx4reQY_9qw",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}

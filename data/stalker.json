@@ -1,0 +1,50 @@
+{
+    "id": 1136,
+    "name": "Stalker",
+    "difficulty": "Extreme Demon",
+    "author": "Cloud",
+    "creators": [],
+    "verifier": "Cloud",
+    "verification": "https://youtu.be/xbeT1aHTKKI?si=33QE3_Y1SwSg3-mr",
+    "showcase": "",
+    "password": "",
+    "percentToQualify": 50,
+    "records": [
+                {
+            "user": "MihaMilos",
+            "link": "https://www.youtube.com/watch?v=w8eJNl1a6TM",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Ivan",
+            "link": "https://www.youtube.com/watch?v=x3tN3k-qMdo",
+            "percent": 60,
+            "hz": 240
+        },
+        {
+            "user": "Crockee",
+            "link": "https://youtu.be/4XN05v7F9qQ",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Bogar1kad",
+            "link": "https://www.youtube.com/watch?v=pLK1rX9dCvM",
+            "percent": 87,
+            "hz": 60
+        },
+        {
+            "user": "KingCrab",
+            "link": "https://www.youtube.com/watch?v=9aPQRW65faI",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Lychee3167",
+            "link": "https://www.youtube.com/watch?v=8A4j5CddcGA",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}

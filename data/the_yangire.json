@@ -1,0 +1,32 @@
+{
+    "id": 19 ,
+    "name": "The Yangire",
+    "difficulty": "Insane Demon",
+    "author": "zKuramishiro",
+    "creators": ["zKuramishiro","KacyGD"],
+    "verifier": "zKuramishiro",
+    "verification": "",
+    "showcase": "https://youtu.be/K_ZsiGq7xwo",
+    "password": "",
+    "percentToQualify": 50,
+    "records": [
+        {
+            "user": "Krieger",
+            "link": "https://www.youtube.com/watch?v=1E287Y2DKNQ",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Crockee",
+            "link": "https://www.youtube.com/watch?v=qeYUYWP4ehI",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Ckujicka",
+            "link": "https://www.youtube.com/watch?v=qKWR9hL6p6Q",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

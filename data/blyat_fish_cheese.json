@@ -1,0 +1,68 @@
+{
+    "id": 15,
+    "name": "Blyat Fish Cheese",
+    "difficulty": "Insane Demon",
+    "author": "Gamecheese",
+    "creators": [],
+    "verifier": "Gamecheese",
+    "verification": "https:\/\/youtu.be\/RVKIhtDlLj8?si=VFvkv9shqyr3sE3V",
+    "showcase": "",
+    "password": "",
+    "percentToQualify": 50,
+    "records": [
+        {
+            "user": "TriscisXD",
+            "link": "https:\/\/www.youtube.com\/watch?v=lOQ-uvNphp8",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Cloud",
+            "link": "https:\/\/www.youtube.com\/watch?v=LSbgIZFmI1c",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Krieger",
+            "link": "https:\/\/www.youtube.com\/watch?v=GAJpFZyjIVU",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Bogar1kad",
+            "link": "https:\/\/www.youtube.com\/watch?v=CTjb0vxffqk",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "KingCrab",
+            "link": "https:\/\/www.youtube.com\/watch?v=sAhCBAIYZ5w",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Ckujicka",
+            "link": "https:\/\/www.youtube.com\/watch?v=j7coYG-c-8s",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Crockee",
+            "link": "https:\/\/youtu.be\/WsMdydpLfWg",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Lychee3167",
+            "link": "https:\/\/youtu.be\/tts9d9pMWK8",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "zKuramishiro",
+            "link": "https:\/\/www.youtube.com\/watch?v=KAsH2K1bnoY",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

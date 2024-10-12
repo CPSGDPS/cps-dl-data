@@ -1,0 +1,74 @@
+{
+    "id": 9,
+    "name": "UltraCircles",
+    "difficulty": "Insane Demon",
+    "author": "Gamecheese",
+    "creators": ["TriscisXD","zKuramishiro","Bogar1kadfr"],
+    "verifier": "zKuramishiro",
+    "verification": "",
+    "showcase": "https://youtu.be/4_jUx9wTDUo",
+    "password": "",
+    "percentToQualify": 50,
+    "records": [
+        {
+            "user": "Bogar1kad",
+            "link": "https://www.youtube.com/watch?v=xviuEIRRMao",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Cloud",
+            "link": "https://youtu.be/TOlPvUmArOk",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "SantGMD",
+            "link": "https://www.youtube.com/watch?v=HLdgvlNX3YU",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "r3SERT1",
+            "link": "https://www.youtube.com/watch?v=usFpG0M7_Uw",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Ckujicka",
+            "link": "https://www.youtube.com/watch?v=7tZGlEersxo",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Crockee",
+            "link": "https://www.youtube.com/watch?v=Y-pA5dM91nU",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Krieger",
+            "link": "https://www.youtube.com/watch?v=Lw0k7zTS2Po",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "EBLAN1622",
+            "link": "https://www.youtube.com/watch?v=nV6KLDVNW0o",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Dolbayob",
+            "link": "https://www.youtube.com/watch?v=jf_OFgzux-8",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "MihaMilos",
+            "link": "https://www.youtube.com/watch?v=-TzFOO8S5qY",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": 1616,
+    "name": "FIREPOWER",
+    "difficulty": "Extreme Demon",
+    "author": "Gamecheese",
+    "creators": [
+        "Gamecheese",
+        " triscisXD",
+        " deilyyxx",
+        " Bogar1kad"
+    ],
+    "verifier": "Bogar1kad",
+    "verification": "https:\/\/youtu.be\/Buh9plD0LTA",
+    "showcase": "",
+    "password": "",
+    "percentToQualify": 50,
+    "records": [
+        {
+            "user": "MihaMilos",
+            "link": "https:\/\/www.youtube.com\/watch?v=b_bHZHr2SPo",
+            "percent": 95,
+            "hz": 144
+        }
+    ]
+}

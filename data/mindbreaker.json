@@ -1,0 +1,32 @@
+{
+    "id": 1331,
+    "name": "MindBreaker",
+    "difficulty": "Extreme Demon",
+    "author": "zKuramishiro",
+    "creators": [],
+    "verifier": "Cloud",
+    "verification": "https:\/\/youtu.be\/QPJgKCe4Ptc",
+    "showcase": "",
+    "password": "",
+    "percentToQualify": 50,
+    "records": [
+        {
+            "user": "Crockee",
+            "link": "https:\/\/youtu.be\/-6chQ8i8bGk",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Lychee3167",
+            "link": "https:\/\/www.youtube.com\/watch?v=VkwJ_E6BOjc",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "zKuramishiro",
+            "link": "https:\/\/www.youtube.com\/watch?v=KkfDftu6kdc",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

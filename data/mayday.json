@@ -1,0 +1,32 @@
+{
+    "id": 518 ,
+    "name": "Mayday",
+    "difficulty": "Insane Demon",
+    "author": "r3SERT1",
+    "creators": [],
+    "verifier": "r3SERT1",
+    "verification": "",
+    "showcase": "https://www.youtube.com/watch?v=CkQlNHNRfkU",
+    "password": "",
+    "percentToQualify": 50,
+    "records": [
+        {
+            "user": "Cloud",
+            "link": "https://youtu.be/66vCPdYwtSk",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Krieger",
+            "link": "https://www.youtube.com/watch?v=FrqvgMGIRwU",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Crockee",
+            "link": "https://www.youtube.com/watch?v=NWXohpAGw-c",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

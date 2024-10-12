@@ -1,0 +1,32 @@
+{
+    "id": 1219,
+    "name": "Symbicord Hell",
+    "difficulty": "Extreme Demon",
+    "author": "Ayano",
+    "creators": [],
+    "verifier": "Ayano",
+    "verification": "https:\/\/youtu.be\/gPMFVWKC934",
+    "showcase": "",
+    "password": "",
+    "percentToQualify": 50,
+    "records": [
+        {
+            "user": "Crockee",
+            "link": "https:\/\/www.youtube.com\/watch?v=nhtNuJ8xXdI",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Cloud",
+            "link": "https:\/\/youtu.be\/zCVeadiTcAI",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "MihaMilos",
+            "link": "https:\/\/www.youtube.com\/watch?v=PBEsGTM2kFc",
+            "percent": 63,
+            "hz": 144
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "id": 1488,
+    "name": "CHASTUSHKI",
+    "difficulty": "Insane Demon",
+    "author": "Dolbayob",
+    "creators": [
+        "Dolbayob",
+        " Bogar1kad",
+        " Crockee",
+        " MihaMilos",
+        " Ckujicka",
+        " zKuramishiro",
+        " EBLAN1622"
+    ],
+    "verifier": "Bogar1kad",
+    "verification": "https:\/\/youtu.be\/ov2GpPJXdyg?si=r6bLVXIMzAOc430W&t=316",
+    "showcase": "",
+    "password": "",
+    "percentToQualify": 50,
+    "records": [
+        {
+            "user": "Crockee",
+            "link": "https:\/\/www.youtube.com\/watch?v=kYto1bpu6xs",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

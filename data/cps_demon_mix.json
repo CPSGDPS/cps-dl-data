@@ -1,0 +1,62 @@
+{
+    "id": 1244,
+    "name": "CPS Demon Mix",
+    "difficulty": "Insane Demon",
+    "author": "GMDStiralka",
+    "creators": [],
+    "verifier": "GMDStiralka",
+    "verification": "",
+    "showcase": "https:\/\/youtu.be\/bekQ393-mpk",
+    "password": "",
+    "percentToQualify": 50,
+    "records": [
+        {
+            "user": "r3SERT1",
+            "link": "https:\/\/www.youtube.com\/watch?v=PCitb0qsjBc",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Crockee",
+            "link": "https:\/\/www.youtube.com\/watch?v=q1T-rpyZreA",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Dolbayob",
+            "link": "https:\/\/www.youtube.com\/watch?v=dSYPGRy5Sdo",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Ckujicka",
+            "link": "https:\/\/www.youtube.com\/watch?v=HIjLtTUBbJo",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Bogar1kad",
+            "link": "https:\/\/www.youtube.com\/watch?v=ToUI2y3LKqI",
+            "percent": 69,
+            "hz": 60
+        },
+        {
+            "user": "Cloud",
+            "link": "https:\/\/www.youtube.com\/watch?v=6UrH9Lptk2k",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "zKuramishiro",
+            "link": "https:\/\/www.youtube.com\/watch?v=rBhN78HTXb0",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Filipogem",
+            "link": "https:\/\/www.youtube.com\/watch?v=6KgBpg55ads&ab_channel=AnotherGem",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}

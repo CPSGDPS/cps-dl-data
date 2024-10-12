@@ -1,0 +1,68 @@
+{
+    "id": 1380,
+    "name": "What the hell",
+    "difficulty": "Extreme Demon",
+    "author": "MihaMilos",
+    "creators": [],
+    "verifier": "MihaMilos",
+    "verification": "https:\/\/www.youtube.com\/watch?v=lQ2XchD0Qrw",
+    "showcase": "",
+    "password": "",
+    "percentToQualify": 50,
+    "records": [
+        {
+            "user": "Crockee",
+            "link": "https:\/\/www.youtube.com\/watch?v=zluP-rTBO3s",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Krieger",
+            "link": "https:\/\/m.youtube.com\/watch?si=AZJGWz1B_YKjoTOl&v=h838kHc4Slw&feature=youtu.be",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Filipogem",
+            "link": "https:\/\/www.youtube.com\/watch?v=hv8mAwSTJVs&ab_channel=AnotherGem",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "zKuramishiro",
+            "link": "https:\/\/www.youtube.com\/watch?v=p8WMOiQIhaU",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "TriscisXD",
+            "link": "https:\/\/www.youtube.com\/watch?v=M6gBy7Uh1_A",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Bogar1kad",
+            "link": "https:\/\/www.youtube.com\/watch?v=8GR8EWtP5G0",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "ckujicka",
+            "link": "https:\/\/www.youtube.com\/watch?v=Hg-Bs5PDSJc",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "AeroPhobia",
+            "link": "https:\/\/youtube.com\/watch?v=QSOnVNEBK1w?si=iv2QXlDPn75YoUnI",
+            "percent": 88,
+            "hz": 120
+        },
+        {
+            "user": "Cloud",
+            "link": "https:\/\/www.youtube.com\/watch?v=7diC9Bs9eVk",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "id": 1656,
+    "name": "Fish",
+    "difficulty": "Extreme Demon",
+    "author": "zKuramishiro",
+    "creators": [
+        "Podjeg",
+        " Filipogem",
+        " Ckuji",
+        " Truce",
+        " Classicool",
+        " Zkwestik",
+        " zKuramishiro",
+        " Bogar1kadfr",
+        " Mihamilos",
+        " Gamecheese",
+        " Triscis",
+        " Detectus"
+    ],
+    "verifier": "MihaMilos",
+    "verification": "https:\/\/youtu.be\/tgDBLXHd7mU?si=iPzNgXnNoOWILLvH",
+    "showcase": "",
+    "password": "",
+    "percentToQualify": 50,
+    "records": [
+        {
+            "user": "AeroPhobia",
+            "link": "https:\/\/youtube.com\/watch?v=JAnWohNgrD4?si=bHQsI5MggSgYS3TR",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "id": 1138,
+    "name": "Last Chance",
+    "difficulty": "Insane Demon",
+    "author": "Cloud",
+    "creators": [],
+    "verifier": "Krieger",
+    "verification": "https://youtu.be/4aq8h2W6moU?si=Ezxhn13SQV4247r5",
+    "showcase": "",
+    "password": "",
+    "percentToQualify": 50,
+    "records": [
+        {
+            "user": "Cloud",
+            "link": "https://www.youtube.com/watch?v=qGWxj3LgaEI",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

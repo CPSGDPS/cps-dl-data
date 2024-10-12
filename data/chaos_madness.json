@@ -1,0 +1,26 @@
+{
+    "id": 996,
+    "name": "Chaos Madness",
+    "difficulty": "Insane Demon",
+    "author": "KacyGD",
+    "creators": [],
+    "verifier": "KacyGD",
+    "verification": "https:\/\/www.youtube.com\/watch?v=Fsn4dFbuvCk",
+    "showcase": "",
+    "password": "",
+    "percentToQualify": 50,
+    "records": [
+        {
+            "user": "Krieger",
+            "link": "https:\/\/m.youtube.com\/watch?v=xzvgtpVGwkM",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "MihaMilos",
+            "link": "https:\/\/www.youtube.com\/watch?v=6r4rpXKcL00",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "id": 1250,
+    "name": "Yoasobi Idol",
+    "difficulty": "Extreme Demon",
+    "author": "Ayano",
+    "creators": [],
+    "verifier": "Ayano",
+    "verification": "https:\/\/www.youtube.com\/watch?v=S0wvNb_Rvl0",
+    "showcase": "",
+    "password": "",
+    "percentToQualify": 50,
+    "records": [
+        {
+            "user": "Crockee",
+            "link": "https:\/\/www.youtube.com\/watch?v=gKhte8gZHLg",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Gamecheese",
+            "link": "https:\/\/youtu.be\/jV4u92mp8ow?si=tlW8pQqAlZPJFhIp",
+            "percent": 90,
+            "hz": 60
+        },
+        {
+            "user": "Lychee3167",
+            "link": "https:\/\/youtu.be\/7ZvjCIyJabs",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "TriscisXD",
+            "link": "https:\/\/youtu.be\/vGGLNAFjSo0",
+            "percent": 63,
+            "hz": 60
+        },
+        {
+            "user": "Filipogem",
+            "link": "https:\/\/www.youtube.com\/watch?v=_0KOh_Tu_Ww&ab_channel=AnotherGem",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}

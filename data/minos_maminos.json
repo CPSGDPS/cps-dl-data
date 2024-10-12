@@ -1,0 +1,32 @@
+{
+    "id": 1572,
+    "name": "MINOS MAMINOS",
+    "difficulty": "Extreme Demon",
+    "author": "Gamecheese",
+    "creators": [],
+    "verifier": "Gamecheese",
+    "verification": "https:\/\/youtu.be\/q6pTmeShnvk?si=U6_hRcEqLjKVLh1Z",
+    "showcase": "",
+    "password": "",
+    "percentToQualify": 50,
+    "records": [
+        {
+            "user": "zKuramishiro",
+            "link": "https:\/\/www.youtube.com\/watch?v=JnPkoZ1TVqY",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "AeroPhobia",
+            "link": "https:\/\/youtube.com\/watch?v=CWqYxceo3_o?si=qIC1o-aNcWi6VhN7",
+            "percent": 50,
+            "hz": 120
+        },
+        {
+            "user": "Crockee",
+            "link": "https:\/\/www.youtube.com\/watch?v=rydw29Mg8OA",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

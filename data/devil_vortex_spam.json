@@ -1,0 +1,26 @@
+{
+    "id": 1326,
+    "name": "devil vortex spam",
+    "difficulty": "Extreme Demon",
+    "author": "MihaMilos",
+    "creators": [],
+    "verifier": "MihaMilos",
+    "verification": "https:\/\/youtu.be\/ZafLM_30ba4?si=hKfVc7LNAxcQX9Ft",
+    "showcase": "",
+    "password": "",
+    "percentToQualify": 50,
+    "records": [
+        {
+            "user": "AeroPhobia",
+            "link": "https:\/\/www.youtube.com\/watch?v=d8DeK6FD8-o",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Crockee",
+            "link": "https:\/\/youtu.be\/CMIAhQtJav8",
+            "percent": 53,
+            "hz": 240
+        }
+    ]
+}

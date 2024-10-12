@@ -1,0 +1,92 @@
+{
+    "id": 1257,
+    "name": "Satans Heaven",
+    "difficulty": "Insane Demon",
+    "author": "GMDStiralka",
+    "creators": [],
+    "verifier": "GMDStiralka",
+    "verification": "",
+    "showcase": "https://youtu.be/wEx6J1qY3xU",
+    "password": "",
+    "percentToQualify": 50,
+    "records": [
+        {
+            "user": "TripleSpike",
+            "link": "https://www.youtube.com/watch?v=qHuJPeVzoxo",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "MihaMilos",
+            "link": "https://www.youtube.com/watch?v=GQgD-l1d65Y&start=219",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "zKuramishiro",
+            "link": "https://www.youtube.com/watch?v=_7gwOKIaZZ0",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "r3SERT1",
+            "link": "https://www.youtube.com/watch?v=Ksj3q9oEk3g",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Krieger",
+            "link": "https://www.youtube.com/watch?v=Mb8ecDJE4yQ",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Crockee",
+            "link": "https://www.youtube.com/watch?v=hOm8WdJRz44",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Ckujicka",
+            "link": "https://www.youtube.com/watch?v=jEyI19H92Nw",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "EBLAN1622",
+            "link": "https://www.youtube.com/watch?v=tpuZn-01vQU",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Dolbayob",
+            "link": "https://www.youtube.com/watch?v=W3hXBR7uudM",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Bogar1kad",
+            "link": "https://www.youtube.com/watch?v=tsuIOkpAC9g",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Cloud",
+            "link": "https://www.youtube.com/watch?v=yP3VnX3OprQ",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Gamecheese",
+            "link": "https://youtu.be/GY0mq8wwvLg?si=QM8iz2ezDrnrBB9x",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Lychee3167",
+            "link": "https://youtu.be/MN61S7alfns",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "id": 49,
+    "name": "Final Something",
+    "difficulty": "Extreme Demon",
+    "author": "Krieger",
+    "creators": [],
+    "verifier": "Krieger",
+    "verification": "https:\/\/youtu.be\/5Cw1NyoCJk0?si=JoLGxWarrFL6aMmy",
+    "showcase": "",
+    "password": "",
+    "percentToQualify": 50,
+    "records": [
+        {
+            "user": "Cloud",
+            "link": "https:\/\/youtu.be\/R1SZNNNItXo",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Crockee",
+            "link": "https:\/\/www.youtube.com\/watch?v=lR5OkEIwODY",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Lychee3167",
+            "link": "https:\/\/youtu.be\/HLOq2Tm6SsY",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "GaLIL",
+            "link": "https:\/\/www.youtube.com\/watch?v=g3QScjBvGfc",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Truce",
+            "link": "https:\/\/www.youtube.com\/watch?v=ihNl-lYuqSA",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Filipogem",
+            "link": "https:\/\/youtu.be\/whR-vkuDKmQ",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "AeroPhobia",
+            "link": "https:\/\/youtube.com\/watch?v=w0E24jPftus?si=YPbOFF_c3dUiBcp8",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}

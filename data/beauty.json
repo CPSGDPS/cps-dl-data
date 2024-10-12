@@ -1,0 +1,56 @@
+{
+    "id": 928,
+    "name": "Beauty",
+    "difficulty": "Extreme Demon",
+    "author": "Cloud",
+    "creators": [],
+    "verifier": "Cloud",
+    "verification": "",
+    "showcase": "https:\/\/www.youtube.com\/watch?v=Or2dQ5KncoU",
+    "password": "",
+    "percentToQualify": 50,
+    "records": [
+        {
+            "user": "Krieger",
+            "link": "https:\/\/www.youtube.com\/watch?v=EI0hG5IYfYw",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Dolbayob",
+            "link": "https:\/\/www.youtube.com\/watch?v=lsHZY--khoA",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Bogar1kad",
+            "link": "https:\/\/www.youtube.com\/watch?v=oqzidF5lCWE",
+            "percent": 83,
+            "hz": 60
+        },
+        {
+            "user": "EBLAN1622",
+            "link": "https:\/\/youtu.be\/X2k3klajzYQ",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Crockee",
+            "link": "https:\/\/youtu.be\/r4CYAR81RGM",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Ayano",
+            "link": "https:\/\/www.youtube.com\/watch?v=wkzCn1DSc_c",
+            "percent": 86,
+            "hz": 60
+        },
+        {
+            "user": "MihaMilos",
+            "link": "https:\/\/www.youtube.com\/watch?v=QYywXuIyaUM",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}

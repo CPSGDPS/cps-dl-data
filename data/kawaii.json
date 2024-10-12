@@ -1,0 +1,24 @@
+{
+    "id": 1640,
+    "name": "Kawaii",
+    "difficulty": "Extreme Demon",
+    "author": "124neetrix",
+    "creators": [
+        "124neetrix",
+        " N1LS",
+        " scarf"
+    ],
+    "verifier": "124neetrix",
+    "verification": "https:\/\/youtu.be\/dpiO3XIrEAw",
+    "showcase": "",
+    "password": "",
+    "percentToQualify": 50,
+    "records": [
+        {
+            "user": "Crockee",
+            "link": "https:\/\/www.youtube.com\/watch?v=paRw8syyhjE",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

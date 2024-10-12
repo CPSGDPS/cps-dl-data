@@ -1,0 +1,56 @@
+{
+    "id": 1131,
+    "name": "Cryse Machine",
+    "difficulty": "Insane Demon",
+    "author": "Ivan",
+    "creators": [],
+    "verifier": "Ivan",
+    "verification": "",
+    "showcase": "https:\/\/youtu.be\/fBGYDa48_YQ",
+    "password": "",
+    "percentToQualify": 50,
+    "records": [
+        {
+            "user": "Crockee",
+            "link": "https:\/\/www.youtube.com\/watch?v=4vV-4IdSrgQ",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Cloud",
+            "link": "https:\/\/www.youtube.com\/watch?v=VaV9SujTSCU",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Bogar1kad",
+            "link": "https:\/\/www.youtube.com\/watch?v=yW-rvLG4WWk",
+            "percent": 64,
+            "hz": 60
+        },
+        {
+            "user": "zKuramishiro",
+            "link": "https:\/\/www.youtube.com\/watch?v=DyPjuPOEajk",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "MihaMilos",
+            "link": "https:\/\/www.youtube.com\/watch?v=9PcmdYy5HXo",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "ckujicka",
+            "link": "https:\/\/www.youtube.com\/watch?v=HHapn5_i-gE",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Krieger",
+            "link": "https:\/\/m.youtube.com\/watch?si=bDIT6T3aHQYMngPV&v=rPU0oKvALOc&feature=youtu.be",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
